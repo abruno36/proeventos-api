@@ -1,0 +1,12 @@
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Domain\bin\Debug\net6.0\ProEventos.Domain.deps.json
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Domain\bin\Debug\net6.0\ProEventos.Domain.dll
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Domain\bin\Debug\net6.0\ref\ProEventos.Domain.dll
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Domain\bin\Debug\net6.0\ProEventos.Domain.pdb
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Domain\obj\Debug\net6.0\ProEventos.Domain.csproj.AssemblyReference.cache
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Domain\obj\Debug\net6.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Domain\obj\Debug\net6.0\ProEventos.Domain.AssemblyInfoInputs.cache
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Domain\obj\Debug\net6.0\ProEventos.Domain.AssemblyInfo.cs
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Domain\obj\Debug\net6.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Domain\obj\Debug\net6.0\ProEventos.Domain.dll
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Domain\obj\Debug\net6.0\ref\ProEventos.Domain.dll
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Domain\obj\Debug\net6.0\ProEventos.Domain.pdb

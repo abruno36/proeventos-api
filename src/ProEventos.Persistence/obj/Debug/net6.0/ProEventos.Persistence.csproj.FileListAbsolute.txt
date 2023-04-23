@@ -1,0 +1,17 @@
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\bin\Debug\net6.0\ProEventos.Persistence.deps.json
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\bin\Debug\net6.0\ProEventos.Persistence.runtimeconfig.json
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\bin\Debug\net6.0\ProEventos.Persistence.dll
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\bin\Debug\net6.0\ref\ProEventos.Persistence.dll
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\bin\Debug\net6.0\ProEventos.Persistence.pdb
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\bin\Debug\net6.0\ProEventos.Domain.dll
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\bin\Debug\net6.0\ProEventos.Domain.pdb
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.csproj.AssemblyReference.cache
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.AssemblyInfoInputs.cache
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.AssemblyInfo.cs
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.csproj.CoreCompileInputs.cache
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.csproj.CopyComplete
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.dll
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\obj\Debug\net6.0\ref\ProEventos.Persistence.dll
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.pdb
+C:\Projetos\ProEventos-Final\Back\src\ProEventos.Persistence\obj\Debug\net6.0\ProEventos.Persistence.genruntimeconfig.cache
